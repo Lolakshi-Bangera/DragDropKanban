@@ -26,5 +26,5 @@ You can add, delete, and drag tasks between columns. Data persists using `localS
 ```bash
 git clone https://github.com/Lolakshi-Bangera/DragDropKanban.git
 cd DragDropKanban
-npm instal
+npm install
 npm run dev
